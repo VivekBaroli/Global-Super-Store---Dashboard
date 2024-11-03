@@ -4,6 +4,9 @@ Welcome to the **Sales Analysis Dashboard**! This interactive tool analyzes sale
 
 ![Sales Dashboard](images/Sales_Dashboard_Overview.png)
 
+![Dashboard](images/Dashboard_1.png)
+
+![Deep_Analysis_Dashboard](images/Deep_Analysis_Dashboard_2.png)
 ## 🚀 Key Features
 - **Interactive Metrics**: Explore total sales, profit, discounts, and order quantities.
 - **Dynamic Forecasting**: Predict upcoming sales using historical data.
