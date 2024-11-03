@@ -2,6 +2,8 @@
 
 Welcome to the **Sales Analysis Dashboard**! This interactive tool analyzes sales data from **2011 to 2014**, providing insights to enhance sales strategies and improve profitability.
 
+![Sales Dashboard](images/Sales_Dashboard_Overview.png)
+
 ## 🚀 Key Features
 - **Interactive Metrics**: Explore total sales, profit, discounts, and order quantities.
 - **Dynamic Forecasting**: Predict upcoming sales using historical data.
